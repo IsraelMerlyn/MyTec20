@@ -20,16 +20,16 @@ define("DB_ENCODE","utf8");*/
 
 
 //Ip de la pc servidor de base de datos
-define("DB_HOST","us-cdbr-east-02.cleardb.com");
+define("DB_HOST","ijj1btjwrd3b7932.cbetxkdyhwsb.us-east-1.rds.amazonaws.com");
 
 //Nombre de la base de datos
-define("DB_NAME", "heroku_21403306dd21dcc");
+define("DB_NAME", "oii8z3pfbuyq2gap");
 
 //Usuario de la base de datos
-define("DB_USERNAME", "b7e2aeb259e25b");
+define("DB_USERNAME", "ya9xl08ag7r2xk8o");
 
 //Contraseña del usuario de la base de datos
-define("DB_PASSWORD", "7d0fa30d");
+define("DB_PASSWORD", "qc7xlveg94ilktzc");
 
 //definimos la codificación de los caracteres
 define("DB_ENCODE","utf8");
