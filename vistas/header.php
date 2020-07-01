@@ -86,14 +86,14 @@ if (strlen(session_id()) < 1)
 <span class="name"><?php echo $_SESSION['nombre']; ?>
 <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-angle-down"></i>
 </a>
-<ul class="dropdown-menu">
+<!---<ul class="dropdown-menu">
 <li><a href="#"><i class="fa fa-user"></i>Perfil</a></li>
 <li><a href="../ajax/usuario.php?op=salir"><i class="fa fa-power-off"></i>Salir</a></li>
-</ul>
+</ul>--->
 </span>
-<span class="status">
+  <!---<span class="status">
 <i class="fa fa-circle"></i> En Linea
-</span>
+</span>--->
 </div>
 </div>
 <div class="collapse navbar-collapse navbar-ex1-collapse" id="sidebar-nav">

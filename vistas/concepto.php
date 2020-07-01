@@ -25,7 +25,7 @@ if ($_SESSION['Escritorio']==1)
                     <div class="col-sm-4">
                         <div class="small-box bg-aqua">
                             <div class="inner">
-                                <h4 style="font-size: 17px;">Prestamos del Dia</h4>
+                                <h4 style="font-size: 17px;">Bienvenido</h4>
                             </div>
                         </div>
                     </div>
@@ -35,7 +35,7 @@ if ($_SESSION['Escritorio']==1)
                     <div class="col-sm-4">
                         <div class="small-box bg-aqua">
                             <div class="inner">
-                                <h4 style="font-size: 17px;">Pagos del Dia</h4>
+                                <h4 style="font-size: 17px;"></h4>
                             </div>
                         </div>
                     </div>
@@ -44,7 +44,7 @@ if ($_SESSION['Escritorio']==1)
                     <div class="col-sm-4">
                         <div class="small-box bg-aqua">
                             <div class="inner">
-                                <h4 style="font-size: 17px;">Gastos del Dia</h4>
+                                <h4 style="font-size: 17px;"></h4>
                             </div>
                         </div>
                     </div>
