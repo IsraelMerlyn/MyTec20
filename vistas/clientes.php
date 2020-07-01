@@ -18,7 +18,7 @@ if ($_SESSION['Clientes']==1)
         <div class="col-lg-12">
             <div class="main-box clearfix">
                 <header class="main-box-header clearfix">
-                    <h2 class="box-title">Clientes <button class="btn btn-success" id="btnagregar" onclick="mostrarform(true)"><i class="fa fa-plus-circle"></i> Nuevo</button></h2>
+                    <h2 class="box-title">Alumnos <button class="btn btn-success" id="btnagregar" onclick="mostrarform(true)"><i class="fa fa-plus-circle"></i> Nuevo</button></h2>
                 </header>
                 <div class="main-box-body clearfix" id="listadoregistros">
                     <div class="table-responsive">
