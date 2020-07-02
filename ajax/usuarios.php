@@ -148,7 +148,7 @@ case 'listar':
 			in_array(2,$valores)?$_SESSION['Clientes']=1:$_SESSION['Clientes']=0;
 			//in_array(3,$valores)?$_SESSION['Prestamos']=1:$_SESSION['Prestamos']=0;
 			//in_array(4,$valores)?$_SESSION['Pagos']=1:$_SESSION['Pagos']=0;
-			in_array(3,$valores)?$_SESSION['Usuarios']=1:$_SESSION['Usuarios']=0;
+			in_array(5,$valores)?$_SESSION['Usuarios']=1:$_SESSION['Usuarios']=0;
 			//in_array(6,$valores)?$_SESSION['Gastos']=1:$_SESSION['Gastos']=0;
 			//in_array(7,$valores)?$_SESSION['Consultas']=1:$_SESSION['Consultas']=0;
 
