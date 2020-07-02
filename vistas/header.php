@@ -10,7 +10,7 @@ if (strlen(session_id()) < 1)
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
-<title>Prestamos</title>
+<title>MyTec20</title>
 
 <link rel="stylesheet" type="text/css" href="../public/css/bootstrap/bootstrap.min.css"/>
  
@@ -153,7 +153,7 @@ if (strlen(session_id()) < 1)
               echo '<li>
 <a href="usuarios.php">
 <i class="fa fa-user"></i>
-<span>Usuarios</span>
+<span>Profesores</span>
 </a>
 </li>';
             }
