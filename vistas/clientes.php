@@ -27,8 +27,8 @@ if ($_SESSION['Clientes']==1)
                             <thead>
                                 <tr>
                                     <th>Opciones</th>
-                                    <th>Cedula</th>
-                                    <th>Cliente</th>
+                                    <th>#Control</th>
+                                    <th>Nombre</th>
                                     <th>Direccion</th>
                                     <th>Telefono</th>
                                     <th>Estado</th>
