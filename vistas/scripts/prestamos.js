@@ -81,9 +81,9 @@ function listar()
 	    "aServerSide": true,//Paginación y filtrado realizados por el servidor
 	    dom: 'Bfrtip',//Definimos los elementos del control de tabla
 	    buttons: [		          
-		            'copyHtml5',
-		            'excelHtml5',
-		            'pdf'
+		        'copyHtml5',
+		        'excelHtml5',
+		        'pdf'
 		        ],
 		"ajax":
 				{
