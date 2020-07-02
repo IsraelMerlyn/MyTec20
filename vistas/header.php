@@ -153,7 +153,7 @@ if (strlen(session_id()) < 1)
               echo '<li>
 <a href="usuarios.php">
 <i class="fa fa-user"></i>
-<span>Profesores</span>
+<span>Usuarios</span>
 </a>
 </li>';
             }
